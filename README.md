@@ -1,10 +1,10 @@
-# Pinky Chan Repository
+# Template
 
-> This is Pinky Chan Readme for github.
+> Ini adalah Readme dari Repositories ini
 
-These commands were written by some pretty awesome people, which include our Main and Regular Helpers, and our Developer! Check out our staff list [here](https://bit.ly/pinkyweb).
+Command ini di tulis dan di perbaharui dari [sini](https://dev.to/fizal619/so-you-want-to-make-a-discord-bot-4f0n).
 
-> We've created a [server](https://discord.gg/h4nsHSarpv) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
+> BTW aku juga punya [verified bot](https://dsc.gg/pinkychan) nihh. Invite sabi lah ya
 
 ## Helpful Links
 * [Our server](https://discord.gg/h4nsHSarpv) [<img src="https://discordapp.com/api/guilds/744448171517935627/widget.png">](https://discord.gg/h4nsHSarpv)
