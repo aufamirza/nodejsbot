@@ -11,7 +11,7 @@ These commands were written by some pretty awesome people, which include our Mai
 * [Our Website](https://bit.ly/pinkyweb) [![Pinky Chan Website](https://img.shields.io/badge/Website-DCC-337fd5.svg)](https://bit.ly/pinkyweb)
 * [Support Us!](https://saweria.co/pingkendi) [![Support Us](https://img.shields.io/badge/Support%20Us-Click%20Now!-337fd5.svg)](https://saweria.co/pingkendi)
 * [Github Repos](https://github.com/aufamirza/PinkyChanRepo) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://aufamirza/PinkyChanRepo)
-* [Vote Us](https://discord.gg/dyno) [<img src="https://top.gg/api/widget/status/756047657016885249.svg">](https://discord.gg/dyno)
+* [Vote Us](https://top.gg/bot/756047657016885249/vote) [<img src="https://top.gg/api/widget/status/756047657016885249.svg">](https://top.gg/bot/756047657016885249/vote)
 
 
 **Some other "Projects":**
